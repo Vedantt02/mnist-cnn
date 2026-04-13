@@ -1,0 +1,25 @@
+# Dataset
+dataset/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# TensorFlow / model artifacts (optional)
+*.h5
+*.keras
