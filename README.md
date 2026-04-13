@@ -12,10 +12,9 @@ You can download it from:
 - https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 
 After downloading, place the files in the following structure:
-
 - dataset
-      mnist_train.csv
-      mnist_test.csv
+     - mnist_train.csv
+     - mnist_test.csv
 
 ## ⚙️ Workflow
 ---
